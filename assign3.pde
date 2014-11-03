@@ -69,8 +69,7 @@ void draw(){
           // check mouseClicked() to start the game
           break;
     case GAME_RUN:
-           println("clickCount="+clickCount);
-          println("bombCount="+numcount);
+           
          int J=clickCount+ numcount;
           
           //---------------- put you code here ----
